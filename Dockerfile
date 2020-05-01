@@ -1,4 +1,4 @@
-FROM node:10.18-stretch-slim
+FROM nikolaik/python-nodejs:python3.7-nodejs10-stretch
 
 LABEL version="2.0.0"
 LABEL repository="http://github.com/actions/heroku"
